@@ -1,37 +1,39 @@
-def fibonacci(n):
-    if n <= 0:
-        return 0
-    elif n == 1:
-        return 1
-    else:
-        return fibonacci(n - 1) + fibonacci(n - 2)
+"""Module for Fibonacci number calculations."""
 
-def fibonacci_iterative(n):
-    if n <= 0:
+def fibonacci(num):
+    """Return the nth Fibonacci number using recursion."""
+    if num <= 0:
         return 0
-    elif n == 1:
+    if num == 1:
+        return 1
+    return fibonacci(num - 1) + fibonacci(num - 2)
+
+def fibonacci_iterative(num):
+    """Return the nth Fibonacci number using iteration."""
+    if num <= 0:
+        return 0
+    if num == 1:
         return 1
     a, b = 0, 1
-    for _ in range(2, n + 1):
+    for _ in range(2, num + 1):
         a, b = b, a + b
     return b
 
-
-def fibonacci_memoization(n, memo=None):
+def fibonacci_memoization(num, memo=None):
+    """Return the nth Fibonacci number using memoization."""
     if memo is None:
         memo = {}
-    if n in memo:
-        return memo[n]
-    if n <= 0:
+    if num in memo:
+        return memo[num]
+    if num <= 0:
         return 0
-    elif n == 1:
+    if num == 1:
         return 1
-    memo[n] = fibonacci_memoization(n - 1, memo) + fibonacci_memoization(n - 2, memo)
-    return memo[n]
-
+    memo[num] = fibonacci_memoization(num - 1, memo) + fibonacci_memoization(num - 2, memo)
+    return memo[num]
 
 if __name__ == "__main__":
-    n = int(input("Enter the fibonacci number you want: "))
-    print("The", n, "th fibonacci number is:", fibonacci(n))
-    print("The", n, "th fibonacci number (iterative) is:", fibonacci_iterative(n))
-    print("The", n, "th fibonacci number (memoization) is:", fibonacci_memoization(n))
+    number = int(input("Enter the fibonacci number you want: "))
+    print("The", number, "th fibonacci number is:", fibonacci(number))
+    print("The", number, "th fibonacci number (iterative) is:", fibonacci_iterative(number))
+    print("The", number, "th fibonacci number (memoization) is:", fibonacci_memoization(number))
