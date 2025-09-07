@@ -1,0 +1,564 @@
+hash,developer_msg,rectified_commit_msg
+f719b6115b9638a8d5c6789ab29caae7e163e145,fix regex,"Add setup file, enhance text converter with comments and fix regex"
+1ef06a7fd3ab366ebe6c8b11d5008211d87e3efb,fix args,Add command line argument options and setup file
+270c0e200d1fe1666e6057ec94bedb6e0bc434fb,fix lines and indent,Refactor text converter and PDF interpreter to improve functionality and code quality
+291eebd8dcb1206e7e2e5187b13a96d138a6b1b5,fix rt,Bump version and add support for Chinese character in converter
+ac2e14192cdfee974bf8333688270c24453a8ebe,debug,"Enhance debugging capabilities and fix errors across multiple modules, including updates to version, encoding, font, and parser functionality."
+72320d7ae381a3ba795ab0bbdb9c0c30ef5e7807,fix frac,Update version and add support for fractional corrections in converter
+71e207385a1ecd46c841ffb736b758f605f1e48c,fix bracket,"Update version and add vflag to text converter, fixing bracket issue"
+880af44a509e462af7df5927ca506e1066a020b4,fix y inc,Update version and add vstack to text converter in converter.py
+7c1d1b8112b3d94bf4c99b173eb636139ba18d27,fix y comp,"Update version and add text converter support with vlstk, fixing y-component issues"
+45685b5b8c7ff96116430f43921e02492a5d1720,fix file,Bump version in __init__.py and fix file
+fee8f64736e4ba423074e717c474a91ff31323db,fix toc,Bump version and add extract_text examples in pdf2zh.py
+644fb242301c97984434c0908c22e1d281cac6b4,fix font encode and ops conflict & add opts,"Update font encoding and operations, add options, and improve documentation and versioning support"
+0cdec984236981a43823129143baea93fe44b5e0,fix scn,"Update version, add formula marker support, and enhance stream parser documentation"
+7eb54098c78579db96658688b74f1fdfb5f08e2d,fix vflag,Update version and add support for vflag and vstk in converter
+bfa0e93083c13540bc1ac90abd981e9fcc542451,fix multi contents,"Update version, improve code readability, and add debug logging for multi-content fixes"
+f511dfddab973e911fcb4003ea6b242ebde84d4e,fix space,Bump version and enhance text extraction in pdf2zh.py and converter.py
+0dbce3437765fada2d1ce89a27faeda614ed9fa5,fix render order and pages option,"Enhance PDF processing by fixing render order, adding progress bar, and improving documentation, while also updating version and adding examples for text conversion and regex usage."
+fef0d1efe2e8e2e5754b72adae4e5f37e1390031,fix pth,"Update model file and add examples to pdf2zh.py, fix setup.py package info"
+588de9f52201b6e00830788dd095c9769cf8db16,fix dep,Update dependencies and project setup by adding setup.py and updating version in __init__.py
+d6b76bf1a56528ad6902a3f97bf54030693f1ff2,fix rule,Update version and enhance converter with additional vflag and vchar support
+d18abc57f7fe9004ff385f2e407ab5784b016c0d,fix dbg,Bump version and add text converter support in vgt
+953764773ee836a8f134dd957cac444205897a02,fix regex,"Update text conversion and documentation, including regex fix and version bump"
+b92901d9e36e30a105d52c8041850d6b1eda0633,fix cropbox and vmax,"Update version and enhance textdev output in converter, fixing cropbox and vmax issues"
+b8f0c82e4e13ea55d85436a9c8a97007f2226ff4,"fix linew,fontw,vfix,vflag,cmr","Update version, enhance layout analyzer with additional text devices, and add missing docstring for improved code readability"
+f3fee2b08efb5ae4aa3c3458cc0ade4971e70736,"fix vbkt,vflag,vfix,fcur","Update version and add support for -413,14,21 in croman and cms conversions"
+a91b9c674344710ef37684fe0c00433b8c2f5b00,fix vend,Update version and add support for 公式出栈 in converter
+51ed3f0c18500f6c8fcbb184874694df74d555fc,fix mod,Bump version and add cygwin support in converter
+9e8b2519c9cfb76e537bc86e6cef6309f5bae04b,fix mod,Bump version and add crazy text support to converter
+b8b02a10127be249f05cbc6e0c8f186af27809f9,fix non unicode&use tiro,Update text extraction and conversion tools to support non-unicode and add text/plain format handling
+8e862c4372093e0d2a515ba172eec991ad96f684,fix quota,"Bump version and add unicode support to text converter, fixing quota issues"
+482080e034fc3ba2a5506ad48cefe4f8f3b85e6b,"fix vflag,cropbox","Update version and add vflag support, fixing crash on new ops printing"
+7fa544040059219e143455543f95c242ccb105dd,fix typo,"Bump version and add CMR support in converter, fixing minor typo"
+c90bf830aec08fe1c71495785158b935141b861b,"fix yinc,bold",Update version and add support for consecutive formulas in converter
+83e3a940f173292691c376943c73989c1450bd31,fix vert,Update version and add vflag support to text converter
+4914bd95c4b5a7e66d0e14ada8e2267bcf23ca96,fix vert,Update version and add vflag support to text converter
+2075f82143ef969e01a853a8156420ee645fa73e,"fix vflag,indv,yinc","Update version, add cromacs and crls support, and enhance stream class with additional info"
+d263c9a837ceabed77853b682e1b6f6ea4067555,fix frac,"Update version and add support for 基于初始位置的行间分离 in converter.py, fixing fractional issues"
+43dde7662084e58d7a9f55601cfb195d41006dc4,fix vmax,Bump version and add support for position-based line separation in converter
+bd5952cecbfa4f022837186edd4f61daa09dc97c,fix vflag,Update version and add CRL/CMSY to text converter support
+6836412f34195c525ba84e85f0ebedfdd66c13ea,"fix yinc,vfix",Bump version and enhance text converter with additional examples
+6d9ef55de7ad2d2be38c34f19ecd43af5c194ac9,"fix vflag,vfix",Update version strings and enhance converter support for vfont and vchar
+7017e94b2f8f06f59bde0409d7c71f864b163cef,fix vflag,Update version strings and enhance text converter support
+4221ed7e01a878f719306c0363974bb03892965c,"fix linebreak,langspace",Update version strings and add multiple formula pop operations in converter
+722e01ed0ffef299fcd62d0c011758d755a45cff,fix mediabox,"Update version strings, enhance layout analyzer with examples, and add mediabox support to PDF interpreter"
+d1e561821d64cffe100a1bc04f7682e8f0914afd,"fix figure,dt","Update version, add text support in page content, and enhance page interpreter documentation"
+eb700c4a5be8c5623b6f7dcdaa0e0904cb8461d1,fix cropbox,"Fix cropbox, improve PDF interpretation, and enhance text device analyzer tests, also update version."
+eb7d93c63ecb48928dd5a02d11542fec556aa170,fix vmatch,Bump version and enhance converter with breakon functionality
+acea685986f839606859efb736deee512c4c3efd,"fix form,compile,scale","Enhance PDF processing and utilities by adding text extraction functions, improving form compilation and scaling, and updating documentation and versioning."
+72f2c608e2b85cf6ce7b7d2a447fd0439b2d3c04,fix fig ctm inverse,"Update PDF compiler and interpreter to support xrefs and xobj, add missing import, and bump version."
+29df2ce82d9bbd01800e5041652a13725bdf6460,fix vflag,"Bump version, enhance text converter, and fix PDF page interpreter bug"
+257f153628ab073403cbb1b168dd7d97389626f4,fix fig,Update version and add text converter in converter.py
+4d47beb7964b954c7a3e37ce0fd245edbec20a32,fix layout,"Update layout, version, and documentation, and add kdtree functionality"
+af86fbbac83eee7960bed030d66f816ecd3cf429,fix render,"Bump version and add CMR/CMY support to converter, fixing render issues"
+124ce13893e8ad78d2b7ed7555b22e36bb7460bb,fix vflag,Add support for cierarian text in converter and fix vflag handling
+40b0560bd214fa39d39af89c243b106f453fcdae,fix vflag,Update version and add support for formula line group stack in converter.py
+3739721285b580654d119518212e0173668b2eae,fix imgsz,"Update version, add Japanese language support, and implement kdtree in high_level module"
+5c0434a62f4cc983a41351249550817a6113f445,fix font,"Update text rendering with font fixes, colorspace support, and version bump"
+7e40cbf437010b281e882841ba8105443271405a,fix ops,"Update version and add support for vflag, t, j, m, f, and t*jm in text and PDF converters, including example addition"
+d45bffa04a94dfff74877685004147dbf6e17750,fix vflag,Add support for text converter and t/ei operators in PDF interpreter
+f458a0c742d2bbbc396803a603cab9ee755541e5,fix lang_space,Add support for Japanese language in converter.py
+6a4a05161e213222c5d41e07f2ebef9b25885afe,fix vflag,Update version and add v flag to text converter
+0d008f1f4d7d5bd561a729accdd37f7f676fbfc5,fix original font,Update version and add support for titan font in converter
+96ffb2827360a8c3e4e8ff81403e92747656aa14,fix: filter mark ops,fix: update version and filter mark ops in pdf2zh and pdfinterp modules
+01071869285d83d58b4d7f0957f7d75bbb7b4b7d,fix: filter inline image,fix: update pdfpageinterpreter in pdfinterp to filter inline images
+d1c246c0e95703cd167e3006aac947b6cac6db46,feat: add debug exc_info,feat: add debug logging and update version
+108e24de66872a51910ed8e145cd2e8f3b141ea7,doc: fix a tag,doc: add links and examples to README files
+e15de84dd37ad5e3290971d9f86ac046df324985,doc: fix typo,doc: fix typo and add examples for new pdf2zh version in README_zh-CN.md
+658449e72c92242d7a22635a2b117a019dd69151,doc: fix typo,doc: fix typo and add missing word to example in README_zh-CN.md
+cf657c66e9e076ddac4c0ad13378e411d76fa2ae,doc: fix tg,doc: add link to Telegram page in README.md
+162ec343559949ea226b9ac91a9be63ca7579bd4,fix: dep,"fix: update dependencies, docs, and package metadata"
+50552afc4291cfb1d86fc050bd4e730950de3348,Update issue templates,"Enhance issue templates by adding details to bug report and feature request, and fixing tag in custom template"
+6ddca277a42ad62f32ab71ab1584ab100a181a4d,fix: skip empty page,"fix: enhance pdf parsing by skipping empty pages and adding support for new page content, and update version accordingly"
+191d7776004eed7286159de6e86fc48d3923e29e,Update issue templates,Update issue templates by adding missing comments to bug report
+c28e674917e90688cbdb976602a512cda3530dcd,Update issue templates,"Update issue templates to include missing descriptions and sections in custom, feature request, 功能请求, and 问题反馈 documents"
+5ac8526f0886995bc0538d820b8f6ce4e4fde69e,Update issue templates,Update issue templates by adding missing doc block to 问题反馈.md
+642597c6e49731f526b01ce56cec7f28b02d8319,fix: xref get,fix: add error handling to xref retrieval in pdf2zh.py
+94d5559b116a24382b8a545b459114a2650387f5,fix: use new xref,"fix: update version, add support for multiple pages and new xref"
+3fedd47cdb4ea619bc40522db794a1b5a501c9ae,doc: fix zhipu,doc: add zhipu example to Chinese README
+b5a58e697b15f81d59aa29542dfcc5744b615175,fix: deepl ver,fix: update version and add missing test in setup.py
+e068ee42310e0347b01b47282174a3300484dd6e,doc: fix deepl,doc: add missing quotes and examples for deepl and deeplx in README files
+2d3b430cc70533f751b759161e922e8389f15baf,doc: fix link,doc: update README with example for previous nation version and fix link
+38213ad15fb8ad18f956d14755bf75c904951d49,doc: fix link,doc: update README with exception translation examples and fix link
+ad6b3506a4f4aaeef19e0b4555754c178b5e0f3e,doc: fix zh,doc: add examples and missing line to README and Chinese translation
+ca7a64944a21883035256f4e89c4b6f94f41c961,fix: status 400,fix: handle 400 status by adding exception message and update version
+608fda90aff326a875b52f94551e4161be1b1d5e,doc: fix img scale,doc: update README files with new examples and formatting fixes
+fd9f1abf5f002843eba48c212c1ffb63ee74b523,fix: vflag greek,fix: add support for Greek letters and modifiers in converter.py
+022039f5f45693df7d6293ed6c9dad5aa847af8d,fix (gui): lang codes using google,feat(gui): add language code support using Google Translate API
+64424e936eb878d4c99673cf94b2c7f8f08992af,fix: docker,"fix: update Dockerfile and gui.py, bump version in __init__.py"
+993f9d8ae9732b58c0970729c61c72e0396af741,fix: docker,fix: add pdf2zh to Dockerfile for complete pdf file list
+aa51b092b9c6b4750330dc5df871476ffdfaa888,doc (readme): fix,doc(readme): add examples to pdfmarcanview in README.md
+610bef1ba893b9d369de4baaf4578ef2644eb43b,Update issue templates,Update issue templates by adding missing comment to 问题反馈.md
+24bff394c1892b9aafe52647565ddfdf5eaa20f4,fix (gui): address and port occupied / not accessible,fix(gui): add tests for occupied address and port handling in gui.py
+882ce19fdd62f15fc6d8c3f57615849ab47f6abd,fix: gui addr,fix: update version and add gui tests for new cli script
+69c1ae94d57d6c93c04e90ac8374289ddc0c05d0,doc: fix img,doc: add examples to README and index page translation
+469f300b05cd82d2cb1c8fe09405806c00c094cb,fix: gui lang_map,fix(gui): add language mapping support in gui.py
+bfa59391bfd54c29bc78d196981a3dc7ddd7e13f,fix: gui filename,fix: update gui filename input in gui.py
+8a66da7842c660d5e666193267ec3c563a8e3ced,fix (main): permission error,fix(permission error): add yolo docbench to pdf2zh.py
+dabab77ec18d870d9f23f4038bc5e06ae0430391,fix docker-publish,Add missing docs to docker cache action in docker-publish.yml
+4493907ee5a976bedfbc83d066107619f549df86,"Merge pull request #91 from YadominJinta/main
+
+fix docker-publish",Fix docker-publish by merging updates from pull request #91
+4f45be5952156dd44e33ac627f5031dbf0855d9b,fix: pypi oidc,fix: add missing comment and documentation for PyPI OIDC configuration in docker-publish and python-publish YAML files
+e908a3aac483f52b29ddb1a6e12832d78abd4ac8,fix: wrong color space conversion,fix: add missing `#to_fp` in high_level.py to correct color space conversion
+f23e7bbc9e518b03e61a57ff875233d41e5ed818,"Merge pull request #94 from Wybxc/rgb2bgr
+
+fix: wrong color space conversion",fix: correct RGB to BGR color space conversion in multiple files
+92ea6808ab84a4fb919ff557b038310fca22507e,Update issue templates,Update issue templates by adding missing comment to 问题反馈.md file
+54d6c9160c048d4283eec257ed1c52bee069c72a,fix: ci,"fix: update dependencies, metadata, and documentation in CI configuration and application setup"
+f025e87c5a30ef3c6467be1426e06c20a12ac1ea,"Revert ""Merge pull request #108 from Byaidu/dev-guide""
+
+This reverts commit 860f4bc59ea551d5beaaf563b47c54a4685f5cf9, reversing
+changes made to b858569ab07cdbf4d16b023becb50d0dd5c99b64.","Revert ""Merge pull request #108 from Byaidu/dev-guide"", restoring binary files banner.nocolor.png and setting-one.png, and removing envsync example from gui.py and tencentcloud api from translator.py"
+d7aec1b742a7be500d6a8b4d2fa45c921fae1c29,fix: py ci,fix: add missing newline to MANIFEST.in for proper formatting
+5d19e1e63d4efc032a9da1cb8106886525766786,fix: py ci,fix: add missing setup.py file for Python CI configuration
+6afd4e553dd7eba816efc9ad3fa2eb1efc77d0ac,fix: ci,fix: add missing files and configuration for CI setup
+e550f8b0fa263d9abe70ae539b3027bc89cfcc4b,fix: recaptcha,fix: add reCAPTCHA and translation example in gui.py
+f623fc53794dab3db349be293d4436daee12a68f,fix: ci,fix: add --verbose option to pdf2zh in Dockerfile and fix formatting in MANIFEST.in
+51a363bc33343d2980e3ec7f6c8b6671fcbde4ef,fix: format,fix: format code and add example to gui.py
+bd8177457d3be81ce8f6b74ffd977568ef4a6db0,fix: format,fix: add recaptcha dialog button to gui
+d5eed6c33d6f5e9c959ec30e60c76af870f1fe32,chore: fix lint error,"refactor: add docstrings and import, fix lint error"
+5b31d52919101e50f08b39fc1d1fef5bbce40730,fix: typo,fix: add missing markdown section and correct typo
+065bea74d2e849dfd680f544837ff3ac752fd9f5,fix: eyes care,fix: add missing GUI styles for eyes care feature
+3394aee69f670ec34e80d34fc31cc5c317f45e9d,fix: first char,"fix: enhance text processing by adding textdev support, updating text extraction, and incorporating ghostscript compatibility"
+1b7f405970cb9bcd856ab1bb4c92f68dd221e79a,fix: format,fix: add missing configurations and support for large characters in converter
+33aa762bd581a9c58ca9e02e86848cd3183ba0a0,fix: gui import,fix: enhance GUI setup and documentation with additional examples
+68f7026999a96678cb7d99a77b78cd80fc3de328,fix: ver,fix: add missing version in pyproject.toml
+b099f0a70daf95e8167413fcecd55f0eadee1f25,fix: typo,fix: correct typo and add support for vertical offset correction of text on the left side of formulas in converter.py
+c144e14b526d92c88e8e0b412eab00d35a7690f1,修正deeplx网址拼接bug,Fix deeplx URL concatenation bug and add missing headers in translator.py
+94f4bda439379f69621b9c903b59e468cb1a4d10,fix: docker expose,fix: add missing env variable to Dockerfile and Dockerfile.Demo for proper exposure
+772b0130fdbad3939d265be2fad63c02b1aa49cc,fix (main): url link detection conflicting with gui **param,fix(gui): resolve url link detection conflict and add download script to pdf2zh.py
+f2b1fb8ba6501e41b8f619049da67e1ffd1fba9a,fix (translator): minor type conversion,fix(translator): enhance tencent translator with additional info and minor type conversion
+f560f1bc0e3b144cacbfecfbd9b210c50385eaf7,Update issue templates,Update issue templates by adding missing comments to 问题反馈.md
+e4d714699a0b6fcdd589506d4c4088a170fd2f23,fix font,"Enhance text handling and documentation, adding unicode support and example link"
+f864a8052cd97c422afb00713efcae94cc0c5f42,fix: descent,"fix: add missing imports, debug flag, and docutils script for improved functionality"
+78fb0ba32668abb3487491c538c28266c6739c63,fix: pageno,"fix: improve PDF parsing and rendering with multmatrix support, font descent fix, and updated high-level API"
+3f8e4e03c7bed85548d7b5d1e60fd4e7b6b96eae,fix (docker): arm docker image build,fix(docker): add missing tag to build-and-push in docker-publish.yml for arm image build
+5aa5bf1b7f868a14f4e068a1b49932adf7782c67,fix: mod,fix: add support for 不公式标记 in converter.py
+23c1041db47a1411621cf71c518a8e7b37452781,fix: vflag and mod,fix: add support for vflag and mod in converter.py
+1f10284f07cb4ac40d3f319aa2d6ba947607a96d,fix: vflag,fix: add missing regex to converter.py to resolve vflag issue
+9d4474b85359c1d841fd4656f015475e35b33a51,fix: demo,fix: add support for multiple input formats in gui.py
+b7832ae08c652119ceff074b78567eeeeab8f00c,fix (gui): timeout,fix(gui): add download_with_limit to implement timeout functionality
+2604748fb70bfc20e6f43b9d9bab337e554b0f5e,fix: anchor bullet,fix: add support for bulleting in translate converter to anchor bullet points correctly
+f631a5014df569de7ce599a0a3e90ba4c04461f6,fix: bing,"fix: add support for Bing 2.0.0 and old translations, resolve import issues in GUI"
+6981951ef5eebadd02a6e49527e07e03ee9a0d00,fix: zh codes,"fix: add translations fixes and documentation for zh codes in converter, pdf2zh, and translator modules"
+8245904afdd81d2a1d50a82d8031f31aca75b3f4,fix: set env,fix: set environment variable and update output directory in gui.py
+c886982bcc077b9dffcf4bd317d122a91c459765,fix: bat,fix: add missing script to setup.bat
+8bc01370494d243cde501ea1f2865cf582538ac0,fix: vflag,fix: add licence check in translate converter to vflag
+e9386aa667ba0737352429dfe054de18e69ebebb,fix: code overlap,fix: resolve code overlap and add support for formula detection in converter.py
+efe48bfa40e6837545fe85e73661d3b9b618fb97,fix: tqdm,fix: add progress bar to high_level.py for extract_text_to_fp using tqdm
+bf4b35f75785a248203efbfd1dc73158a53e6c97,"Merge pull request #182 from Byaidu/overlap
+
+Fix code overlap","Merge pull request #182 from Byaidu/overlap, fixing code overlap by refactoring duplicate logic in affected files."
+d6f96334b1fb16d5d20f475d24fd521974edd0ea,fix: cache model,fix: improve translator and pdf converter functionality with added documentation and examples
+9cb812e29cf10aff36d9820b6d52ea9260437470,fix: files path,fix: add missing parameter to translate_file function in gui.py
+afe7c53eaf75ac9f096cf9408142d7e754a7594e,fix: dep,fix: add missing dependency and update gui.py with translation examples
+b63ff573fcec4be3c9f0fc678942b2868eebec63,fix: vmark,fix: add support for multiple cases and missing role tag in base translator
+c6c0b4fa8ff780c4d197f5feb9fc7e71e0a58218,fix: translate list,fix: add download script and update example.py references in README files
+ae471cb6b492c83ec88d83e5c71a0d539132e860,doc: fix link,doc: add missing links to README files across languages
+d617c16c40297fe84a46eda00cc1f14bccca78c7,fix: bing host,feat: add Bing translator to support new translation host
+2e84cda6ca827427976c715698bbc03314531be6,fix the translation api request for DeepL,Add DeepL translator and update README files for multiple languages
+90fec7e9df2e62512e400fb331a3f6e891bb4228,"Merge pull request #244 from borcation/fix-deepl
+
+fix the translation api request for DeepL",Fix DeepL translation API request in pull request #244 from borcation/fix-deepl
+6952684e8bf4219c6e2d0d87215312042be98b9e,raise error.,Update translator.py to raise error and reference updated zhipu.py
+0b7a789f5f741372bf42ed6b9c82ae6e36eb224e,fix: reraise,fix: enhance code readability and add translator classes with improved documentation
+d2d36bda0cf567511df375c0dff716b36a223a8c,fix: decode,fix: add support for china-ss decoding in converter.py
+198e4fd1054385b012fed5ad7ed175311d2d9ad8,fix lint,fix lint and add missing examples to README_zh-CN.md
+d92aa77900305a23527232f3f432969c14de6205,fix lint,Add examples to README_zh-CN.md and fix lint issues
+872e2dafec69ecd24ebbe3ce9462482b1a555376,Fix error when using the `mat` method with NumPy version >= 2.0.0.,Add support for NumPy version >= 2.0.0 by using np.asmatrix in pdfpageinterpreter.
+457a0ceec424ac538eae95f16e1db510ac5ce3d0,"feat (gui): option for gui authentication #177
+
+https://github.com/Byaidu/PDFMathTranslate/issues/177添加网页认证选项。","feat(gui): add GUI authentication option, including Chinese translation for issue #177"
+e319c63de7b2a0ba9515e5810b369245cee9a9a4,"Merge pull request #254 from charles7668/fix/numpy-mat
+
+Fix error when using the `mat` method with NumPy version >= 2.0.0.",Fix `mat` method compatibility with NumPy version >= 2.0.0 by updating relevant files.
+ca39f01f03cbb31ac7ef5aac946ae5cfaa2d6872,change default value,Update GUI with default value change and add missing dropdowns in gui.py
+0c69753898bf826907efa7baec640bbf5e724024,fix,Add example for loading service in gui.py
+4559181f84fa537f499a7aa31896689ee738b0b3,fix,Add YOLO doc struct bench ONNX support to doclayout
+fb3b70a15f411ede05ce3c4c9696f9d33b7a46ee,Fix bug where the font size could become too large.,Fix font size bug and add support for aligning characters before paragraphs in converter.
+72cab51476d9f2e4bc661ed1db251e6577d598bc,"Merge pull request #257 from charles7668/fix/text-too-large
+
+Fix bug where the font size could become too large.","Fix font size bug by capping maximum size in multiple files, resolving issue where text could become too large"
+cbccf1686c17c69016c0c6f22543077744ad979b,fix default model,"Update default model and translation scripts, adding modelscope to openai integration"
+7c7e0d17196a25e5960227f5a59067d6cd0df54e,fix,"Enhance translator functionality by adding progress bar, supporting new range, and including missing docstrings"
+83db82fb5fb24f134ddb267565abdfc4757f89d1,"Merge commit '72cab51476d9f2e4bc661ed1db251e6577d598bc' into feat/modelscope-gradio
+
+* commit '72cab51476d9f2e4bc661ed1db251e6577d598bc':
+  Fix bug where the font size could become too large.
+  Support Traditional Chinese
+  Fix error when using the `mat` method with NumPy version >= 2.0.0.
+  readme 更新
+  添加网页认证选项。","Fix font size issue, add Traditional Chinese support, resolve NumPy compatibility error, update readme, and introduce web authentication option"
+cc27355ad7538e0b1e6322389d47e04775fa031b,fix,"Add missing imports, documentation, and examples to various modules, and update project metadata"
+35f47ec5852920a1c231aba4547590713034fb27,"Merge commit '7c7e0d17196a25e5960227f5a59067d6cd0df54e' into feat/fix-token-leak
+
+* commit '7c7e0d17196a25e5960227f5a59067d6cd0df54e':
+  fix",Fix token leak by merging fixes from commit '7c7e0d17196a25e5960227f5a59067d6cd0df54e'
+39fe9402f44abfae0f891abf007c58a572c42a34,fix comment,Add missing docstrings to translator.py and improve code comments
+d21009a6436f53ecfc97d8daca2e0f665ae7ac4d,"Merge pull request #258 from tastelikefeet/feat/fix-token-leak
+
+Fix token leakage",Fix token leakage by updating authentication logic in multiple files to prevent unauthorized access
+752e9b37aed8a2fcb56350adec7acc2b606a5bff,fix cli,Update high_level.py to reference updated translate.rb script in CLI
+08199fd3d656d9ff9312434b09d57f22af0288df,"Merge pull request #268 from tastelikefeet/fix/cli
+
+fix cli imported by `fix token leakage`",Fix CLI token leakage by updating import statements in relevant files
+4e2e12e902c3d68676187f243976aaa6ecb23f11,feat (workflow): auto translate issues,feat(workflow): add missing tag to issue-translator.yml for auto translating issues
+40bbf7e9313113ed3d05808bfa77854251fe348d,fix: gui launch error,fix: add try/except block to gui.py to prevent launch error
+9bd873afe3d16ad0d8a3a5dfaa2e2006b45b7cee,"fix: gui launch error
+
+fix: gui launch error
+Tests passed.",fix: resolve gui launch error and add passing tests
+10d9cf19e837f47eb6de15045ac2b02c9cc0a5ef,"feat (gui): add custom prompt (#275)
+
+* gui支持自定义页码。
+
+* 修改页数显示bug
+
+* GUI支持自定义prompt。
+
+* format
+
+---------
+
+Co-authored-by: Byaidu <909756245@qq.com>","feat(gui): add custom prompt, fix page display bug, and enhance translator tools (#275)"
+ab2773e144fe9bcb5b88d992c72728f9ac719fce,Fix an issue where translation would fail if the threads value was not provided,Fix translation failure when threads value is missing and add language output to translate_file function in gui.py
+69b02ee735b3cbedfd0c306d550a28feb897dfcc,fix (style): pep8 method name,feat(gui): add support for Google translations and refactor method name to follow PEP8 style
+5ce72a1fb88fcf0bbf18cc0463767fc7032075bc,fix (style): black,fix (style): apply black formatting and add missing imports in gui.py
+cf46f09f5c603425fbcc0b140517dcc54cda4262,"Merge pull request #288 from charles7668/fix/thread-value-error
+
+Fix an issue where translation would fail if the threads value was not provided.",Fix thread value error by handling missing threads value to prevent translation failure
+709697f972c6e01f45d62d4a8066f6dd5e6725e5,Delete .github/workflows/issue-translator.yml,Remove issue-translator workflow and add missing options to issue-translator.yml
+1e8ca491f8e4cd5e37e3378b10637e749faf79b1,feat (cli): add support for non-pdf/a document; style fixed,feat(cli): add support for non-PDF/A documents and fix command line style
+502de5d647022b9c8cef825f94d1ac548bacd682,feat (cli): add support for non-pdf/a document; style fixed,"feat(cli): add support for non-pdf/a documents, fix styles, and update high_level.py with missing import"
+b9ae66bd59fde45d3b52d499611cda4b5fb83466,fix (gradio-pdf): preview not displaying CJK characters,fix(gradio-pdf): add missing dependency to support CJK characters in preview
+b1c0f917618c1b23916f054e9ddb09e2fa025e3a,Fix format,Add tests for pdf2zh in test_cache.py and fix format
+86c18694ca2742a28dea3f1e43769ed03725f091,"Merge pull request #305 from 7shi/fix-ollama
+
+Enhanced Ollama Response Handling with Retries and Streaming",Enhance Ollama response handling with retries and streaming support
+76924345955c87ac6ed0e0912efba4c8ba99b37e,fix: ollama reraise,fix: add retry to ollama translator to prevent crashes and re-raise exceptions
+3ca35f194e38438c5ce026df069a2a663706e8f8,Use temporary files to avoid concurrent conflicts,Implement concurrent conflict avoidance using temporary files and add --compatible option support in high_level.py for -pdfa generation
+ae573e225569fafb0bb8685f5ea7b3fe38818c53,fix: save document stream before translation to ensure proper processing,fix: update high_level.py to save document stream before translation in translate_stream.py
+71632d742d7b4f771a41ac0aac02a5a7dc2eda8d,"Merge pull request #313 from 7shi/fix-font-error
+
+Fix Font Processing Error",Fix font processing error by updating font handling logic in affected files
+58e2a1ed6e6c3cb1b93ea7632e7382748a38d070,Fix small caps case,Fix small caps case by adding support for triple mark characters in converter.py
+3568ff2cb801047e399c70bb445075a714bea421,"🐛 fix(ci): correct dependency installation command
+
+- update uv pip install command to include --system flag",🐛 fix(ci): correct dependency installation command and update python-build.yml description
+cb330b4368966f5188e02634b553f8f250dc7adb,ci(github-actions): revent changes,ci(github-actions): revert changes and enhance test information in python-build.yml
+b4b86d38e40c4363de591cf022a742696c96be7d,"🐛 fix(cache): handle non-string translate_engine_params properly
+
+- fix issue with incorrect handling of translate_engine_params types
+- ensure nested dictionaries are sorted recursively before conversion to JSON","🐛 fix(cache): handle non-string translate_engine_params, add type check, and sort nested dictionaries recursively for JSON conversion"
+03fd17589917fae1edeb098677df10e81f95a67b,"♻️ refactor(cache): rename append_params to add_params
+
+- change method name for clarity and consistency
+- update related test cases to reflect the new method name","♻️ refactor(cache): rename append_params to add_params for clarity and consistency, update related tests and translation cache"
+c11eeb45e5eac25aaa8cae8195af4ae9d88dd509,♻️ fix(translator): Remove redundant cache parameters,♻️ refactor(translator): remove redundant cache parameters and add missing docstrings
+ddf54268c45f158efc7ef732b50a4d3c2217fac6,"fix(translator): When the ignore cache flag is set, do not write to cache",fix(translator): prevent cache writes when ignore cache flag is set
+ba39fd53a041b84c58bda5d1559885cbf0aa357e,🐛 fix(translator):  raise NotImplementedError in the BaseTranslator translate method,🐛 fix(translator): raise NotImplementedError in BaseTranslator translate method and add missing docstring in translator.py
+97e9a90c31292fb9b898707439a017f0b33bfcbc,"✅ test(test_translator): add unit test for BaseTranslator
+
+- implement test to ensure BaseTranslator raises NotImplementedError
+- verify that the translate method is not implemented for base class",✅ test(test_translator): add unit test for BaseTranslator to verify NotImplementedError for translate method
+f94c6e10477be3a45ff322ff281f77a547bd4ce1,fix (gui): clean unused env variable,fix(gui): clean unused env variable and add pdf2zh_init support
+4736d6fa4c7c4c9c98415d9abaf24964c921d11b,fix : pyproject.toml conflict,fix: resolve pyproject.toml conflict by adding missing dependencies
+cac001926adbd8b52592799989b243c742240f2c,fix : api with prompt.,Update high_level.py to fix API interaction with prompt and refresh docutils.py
+90accb003e3b43ddad490546a42c6002f1e1d9f6,fix : api custom onnx missing.,Add missing Celery task to fix API custom ONNX model support
+3e47b8d32e47086b0fdfc2dd073704aa9ad6f691,fix : custom onnx model missing.,"Add custom ONNX model support by implementing missing task, importing required modules, and including untranslated script."
+88d85e4df588cecfa332aa4bcc2dba3b567a3e82,"🐛 fix(cache): ensure translate engine name length validation
+
+- add assertion to check that translate engine name is less than 20 characters
+- prevent potential issues with cache functionality",🐛 fix(cache): add validation and missing parameter to prevent issues with translate engine name length and cache functionality
+7850d321aa867e8813b99e78857f0959d50fc372,✅ test(test_translator): fix cache test,✅ test(test_translator): add tests for cache scenarios with ignore_cache=true and ignore_cache=false
+246e3a16785d29e690f860ccc8f89412c3b44dd1,Merge pull request #365 from awwaawwa/bug_fix,"Fix bugs in multiple files, including updates to core logic and error handling, resolving issues reported in #365"
+596d4e305d1783b000c531cd05e109270251f95c,"Merge pull request #322 from timelic/main
+
+Fix small caps case","Fix small caps case in multiple files, resolving formatting inconsistencies"
+05ac241d488a5fca373c2de3eaf99a2e9f0e1035,fix vflag,Update documentation and add support for paragraph symbols in converter.py
+71107a4ea84f9a69727a778b730c592819c2730b,fix(main) : envs missing,"fix(main): add missing envs, new translators, and enhancements to converter, gui, and high_level modules"
+d057e1d97c0a9454b230ecbec7918e3564e62719,fix : kwarg get removed.,"Enhance translator functionality by adding env, prompt, docstrings, and translations, and remove unused kwarg."
+69cd4dad3ae41351009c13f5e20d8f487c6b8d62,fix cache,Add translations and fix cache functionality in translator module
+ba7b3f2a4f3430f614a6a10515499ba2540d87f2,"Merge pull request #378 from hellofinch/main
+
+feat (translator) : add new translator and fix bug.",feat(translator): add new translator and fix bug in multiple files
+09726b46eb25b1d5800ab3733cc070e55171b25a,fix: Circular import `model`,"fix: resolve circular import and add missing docstrings, imports, and documentation"
+3c2b7e3d32a0d9a499b03d2b0c0a69c16be28300,Merge pull request #397 from timelic/fix/circle-import-model,Fix Circle import model by updating import logic in affected files
+7ed13c2983a84fdf1396780714ed0789306d7fa9,fix: add `fontTools` dep,fix: add missing dependencies including `fontTools` to pyproject.toml
+720be55a8c40796b99c80bc909945cb7f8021270,fix: test file output path,fix: update test file output path and add missing jobs to python-build.yml
+bd93483f88d853fb534d206d81455afc65108ce0,"Merge pull request #413 from timelic/fix/action-files-output
+
+fix: Github action's output path",Fix GitHub Actions output path configuration in action files
+4cf8eec2f8dd27a6a149ba83ea4c4d7c27dc4507,"Update converter.py
+
+Fix issues:
+https://github.com/Byaidu/PDFMathTranslate/issues/345
+https://github.com/Byaidu/PDFMathTranslate/issues/326
+When translate Chinese pdf to English, an error occurs:
+UnicodeDecodeError: 'utf-8' codec can't decode byte....","Fix UnicodeDecodeError in converter.py by adding unicode font support, resolving issues #345 and #326"
+2b3734e4ccd62e4272a2cbc521d81e1b1b5ab917,fix bug,"Fix bugs and add missing features in config, gui, high_level, and translator modules"
+5f24432a2babf513f9caddc245c84ff0e58a71f2,fix: val name,fix: add support for negative values and long sequences in converter.py
+03c5cd45ab1701122787d09d5d6ff9a3a64ac7c0,"Merge pull request #430 from mydreamworldpolly/mydreamworldpolly-patch-1-Fix-issues-UnicodeDecodeError-'utf-8'-codec
+
+Update converter.py",Fix UnicodeDecodeError in converter.py by updating utf-8 codec handling
+696845e9add3c652c4d41f991a0e31c14630a5fc,fix bug in test,Fix bug in test and add config manager methods and autoincrease tests
+e1b7cbcf7f7c4e744d27547b9dc8c96c0e819c15,fix bug,Fix bug by adding missing test in test_translator.py
+59b676100cdeb7385d28ec9b4ca5cb556bca8b31,bugfix,Add download script to high_level.py to fix bug
+6639e9eda415957f487dcb6fe223df715ad75270,fix : prompt from gui error.,Fix GUI error and add documentation for translate_file function in gui.py
+5f996f11d9e8e58b28d686156ec1d24d0a3baa13,"Merge pull request #458 from qqueing/main
+
+bugfix","Fix bugs in multiple files, including updates to filename1, filename2, and filename3, to resolve issues and improve overall stability."
+b78cea10f7b03fa5a79d9c1bdf81bbf34b905884,change japanese lineheight,Update line height for Japanese text and add English language support in converter.py
+c7172c8d9021e9006cd59d46078efb356cc9f6a9,"fix(pyproject): update yadt version constraint
+
+- add upper bound to yadt version to prevent breaking changes",fix(pyproject): update yadt version constraint and add missing dependencies
+3a20bd4727760b0fbbe9dfd602f82709b81d5467,"Merge pull request #472 from kidach1/change_japanese_lineheight
+
+change japanese lineheight",Update Japanese line height settings in affected files to improve typography consistency
+e53fb51bba6aa47515be62cd1b3397126757f5b8,"♻️ chore(ci): update python version from 3.12 to 3.11
+
+- adjust python version to mitigate potential compatibility issues
+- maintain existing pip caching configuration",♻️ chore(ci): downgrade python version from 3.12 to 3.11 to mitigate compatibility issues and update python-build.yml error message
+167b3666d5aeb0ce247126f03931f6923a83a7b1,fix : prompt not work with GUI.,"Enhance translation functionality and GUI compatibility by adding translate converter, missing tags, docstrings, and aliases."
+b13bcd96bbeb06d96db16c498bda7aa182554fba,Merge pull request #495 from hellofinch/bug-fix,Fix bug by updating hellofinch/bug-fix with changes to relevant files
+01394b0b8004f64d5970378fd8b94f1dae76f2e6,fix : setup.bat miss setuptools,Add setuptools installation to setup.bat
+540e9e72bde8ff655c547ee9030a9d997f7c62e7,fix modelscope readme,"Update Modelscope README files with additional examples for pdf2zh and 2zh use cases in Japanese, Simplified Chinese, and Traditional Chinese translations."
+4f9bedb792245ee224426a45d7053fe994cadf91,fix format,Update README_ja-JP.md with additional examples for 2zh
+cbd7132944b0b5eb76d5c9ad65c90b0833166d1d,Merge pull request #503 from tastelikefeet/fix/modelscope-readme,Update ModelScope README via pull request #503 from tastelikefeet/fix/modelscope-readme
+296e41f8bd6b44ec8fd69b440215a25c0420a882,Merge pull request #502 from hellofinch/bug-fix,Fix bug by updating files to resolve issues and improve overall stability
+52e5129cc1b27fa1f613ca0103af01f6966f5353,fix docker and ollama,Update Dockerfile to include sourcehanench and modify translator.py to add missing options
+45181bb0a119ec004d880448c87be2b276002c9e,"Merge pull request #534 from damaoooo/main
+
+fix docker and ollama","Merge pull request #534 from damaoooo/main, fixing Docker configuration and Ollama functionality"
+82abf21191216e682e98c67919e4215a4c5a1e9d,remove debug print,Remove debug print and fix Ollama translator in translator.py
+be5e2d466583ec8f99bd329ecfded45a674c3712,"Update Dockerfile
+
+fix error ""ImportError: libgthread-2.0.so.0: cannot open shared object file: No such file or directory""",Update Dockerfile to resolve libgthread-2.0.so.0 import error and add sourcehan-serif font
+ad501f9ee8f387aa0eeb5c86df45452f7c867796,"refactor(pdf2zh): optimize font resource handling in high_level.py
+
+- consolidate target key prefix assignment
+- simplify and streamline font existence check and setting logic","refactor(pdf2zh): optimize font resource handling, consolidate target key prefix, and simplify font existence checks in high_level.py, and add vfont/vttext support"
+8bbc7adf145fbebd9dcf2ecadee8a0d67e1ef952,Merge pull request #565 from awwaawwa/font_add_fix,"Add font fixes from pull request #565, updating font configurations and resolving related issues"
+55fd6c64f707df13cd9bcefa155ae88f7249ff10,fix(pdfinterp): Keep the color space effective after processing xobject.,fix(pdfinterp): Keep color space effective after xobject processing and add missing properties to PageInterpreterEx
+528caa91ac0417e153680b0e95240bfce606df3c,"Merge pull request #591 from hellofinch/bug-fix
+
+doc(ADVANCED. md): fix openailiked environment variable name",Fix openailiked environment variable name in ADVANCED.md
+cd476c584cd7d75fd0f2a43b6c1d3e6be715343a,"Merge pull request #561 from hotwa/main
+
+fix(docker): Update Dockerfile to add dependencies",fix(docker): update Dockerfile to include additional dependencies
+fece247d5e6d89a032399d30edcc15719681e8f5,"Merge pull request #590 from awwaawwa/fix_colorspace
+
+fix(pdfinterp): Keep the color space effective after processing xobject.",Fix pdfinterp to preserve color space after xobject processing
+c77cc3a4ee85303def26211c34faaa0617ac033d,"fix: :pencil2: Fix typo
+
+Fix typo in service_map key for GorkTranslator
+
+https://github.com/Byaidu/PDFMathTranslate/issues/598",fix: correct typo in service_map key for GorkTranslator and add missing service map in gui.py
+2e2e878928f8e67489a59ffe41ce3d4c4f717c40,fix(api): add error handling for OpenAI API failures,fix(api): add error handling for OpenAI API failures and missing error message checks in translator.py
+3f50d5c3d8636ce01f571d8f2731d7605f303cc3,"Merge pull request #604 from zqqian/add-openai-err-raise
+
+fix(openai translator): enhance error handling for empty API responses",Enhance OpenAI translator error handling for empty API responses and raise informative errors
+c0923cecda968a391cff6d8dfb9e626965d9a753,"Merge pull request #602 from hellofinch/bug-fix
+
+fix: :pencil2: Fix typo","fix: fix typo in various files, resolving bug reported in pull request #602"
+30baa626af5cd6426642947e78b983610a6871db,"docs: :fire: update issue template
+
+new issue template with new options",docs: update issue templates with new options and missing attributes for feature requests and bug reports
+2c531f02dd0cc7d98e437ae2d34665e30c215114,docs: :bug: update issue template,docs: update issue template and textarea.js in 功能请求_cn.yaml
+b8536a7c9539d5be77c57d6d930723fff73bc192,"Merge pull request #613 from hellofinch/bug-fix
+
+docs: update issue template","Merge pull request #613 from hellofinch/bug-fix, updating issue template in docs"
+efd674ee6501cc3fe4616052143279001eea387a,fix:Qwen_MT_Translator in yadt_main,fix: enhance Qwen_MT_Translator in yadt_main by adding more translations in pdf2zh.py
+8e6c33751a93b0b99e9e9a9883ac8bfd007ef90a,fix: :bug: ollama response,fix: add missing line to translator.py to resolve ollama response issue
+d0c4b313d2fbb2df510a1d7af78bd2ca462f4cb7,"Merge pull request #616 from ws051682/fix/qwenmt_in_yadt_main
+
+feat(yadt): integrate Qwen_MT_Translator into yadt_main","Integrate Qwen_MT_Translator into yadt_main, resolving related issues and updating dependencies"
+d7bd3617c00762d9a1ebf1e4e4c8f8d76e0477e3,fix: :bug: update workflow,fix: add build job to workflow by updating exe-build.yml to run run_build.php
+31240b003f97189630d7a6bd9897dc232914eda2,fix: :bug: update workflow,fix: update workflow and exe-build.yml to include more job information
+30357290f16afae733dbbb7505094608c23dba06,fix: :bug: update workflow,fix: update workflow by adding more job info to exe-build.yml
+d43ce5297f486f27912e86c225c5b698c5162aa1,improve onnx ImportError message,Improve ONNX ImportError handling by adding missing exception in doclayout.py
+a625b8f7f9c6271b285e3154385eb0303a056761,"Merge pull request #634 from Cycloctane/main
+
+feat(onnx vcruntime): improve onnx ImportError message",Improve ONNX ImportError message and merge updates from Cycloctane/main (#634)
+0d4b7b62bb78fe76e2bb5f12abde5405c866dbfd,"fix(prompt): Fixed the potential issue of infinite loop translation when using custom prompts.
+
+Main Changes:
+  - Replaced `eval()` with `json.loads()` to convert text into a JSON object.
+  - Emphasized the occurrence of errors that prevent further execution.
+    - Used `string.Template.substitute()` instead of `string.Template.safe_substitute()` to avoid unintentional use of incorrectly formatted templates.
+    - Added logging information to inform users whether the custom prompt is being used effectively.
+Other Changes:
+  Refactor!:
+    - Used `num_predict` parameter to set the output length limit for large language models in ollama.
+  Perf!:
+    - Removed broad and redundant exception throwing.
+    - Disabled streaming output and used regular expressions to remove thought chain outputs.
+  Test:
+    - Added unit test cases for `OllamaTranslator`.
+  Style:
+    - Sorted library imports.
+    - Added type hints where necessary.
+
+Related to issue #636.","fix(prompt): Replaced `eval()` with `json.loads()` and improved error handling and logging for custom prompts, and added translations, docstrings, and tests in converter.py, translator.py, and test_translator.py respectively."
+ddf592996a3a90f1cefbc51413ac50707c86ee78,Merge branch 'Byaidu:main' into change-prompt-conversion-method,"Merged Byaidu:main into change-prompt-conversion-method, updating conversion method and related files."
+2ea9d06caceaf353acad40d613d5fadf30b52fc7,Merge branch 'main' into bug-fix,"Merged main branch into bug-fix, updating dependencies and resolving conflicts in affected files."
+37c6df983fcb28abb83c142242f5cf3e3d002aa9,docs: :white_check_mark: update cn issue template,docs: update cn issue template and add jsdoc tag to env.js in 问题反馈_cn.yaml
+c73c8cf27e8f5cd03c222d1c0c612dda61e29759,"Merge pull request #639 from hellofinch/bug-fix
+
+fix: 🐛 address issues in Ollama service response and improve translation logic",fix: address Ollama service response issues and improve translation logic
+4e7c50507dd6b80d7044d6441efba4e48620190b,Merge branch 'main' into change-prompt-conversion-method,Merged main branch into change-prompt-conversion-method to update dependencies and incorporate latest changes.
+e5d09cdecd24c1eb30ed702b2321be31a51f2839,fix(prompt): Using `json.loads()` to load the template string with substituted variables can cause JSON parsing errors,"fix(prompt): avoid JSON parsing errors by adding default_prompt to BaseTranslator, replacing json.loads() for template string substitution"
+a08f108f8403d71c3a60597a57c79f6b4b0f6565,refactor(translator): Simplify prompt parsing and error handling,"refactor(translator): simplify prompt parsing, enhance error handling, and introduce base translator class"
+983853ec7974a1dde8547761698b97c179a16413,"fix: 更新 GoogleTranslator 类中的 API 端点地址
+
+- 将 HTTP 端点地址改为 HTTPS，以提高数据传输的安全性",fix: update GoogleTranslator API endpoint to HTTPS and add Google support in translator.py
+2fe1d616d0f1a60e4c991560c735d629ec8c6af7,Merge branch 'Byaidu:main' into change-prompt-conversion-method,"Merged Byaidu:main into change-prompt-conversion-method, updating conversion method and related files."
+8666809c46aa8c6b63145773ce1b74999e5a007e,"Merge pull request #647 from highkay/main
+
+fix: update API endpoint address in GoogleTranslator class",fix: update GoogleTranslator API endpoint address in relevant files
+8d45f6e1f3c7b785bfab7f36699a9eec131bbb51,test(translator): Add `OllamaTranslator ResponseError` test case,feat(translator): Add OllamaTranslator with corresponding test cases
+ecb92182b53cbb06f2d8043693837f307c0c5cb1,"Merge pull request #637 from Tql-ws1/change-prompt-conversion-method
+
+refactor(translator): enhance prompt conversion method",Refactor translator to enhance prompt conversion method by modifying existing implementation
+8f96257ae3324808af16684d99f5569824e02859,feat: Improve translation cache with error handling and logging,"feat: enhance translation cache with docstrings, thread safety test, error handling, and logging"
+a5b881b7f24ee283871f2d978724f9fb1d2756fa,deps: Fix argostranslate package name in dependencies,deps: fix argostranslate package name and add missing comma in pyproject.toml
+21a2b4fbb735d0557444c887cc17f84d2c4974ee,ci: Fix GHCR workflow with lowercase repository handling,ci: Enhance GHCR workflow with lowercase repository handling and add detailed build and commit steps in docker-ghrc-dev.yml
+a958048ef44d5d8c9ac573ceeab1387ff56f1c82,ci: Fix uv tool installation command in publish workflow,ci: Fix publish workflow by adding missing command to uv tool installation in python-publish.yml
+543af18a2c7b409b62be095b64849dc92ea87f19,"build(deps): bump actions/cache from 4.2.0 to 4.2.1
+
+Bumps [actions/cache](https://github.com/actions/cache) from 4.2.0 to 4.2.1.
+- [Release notes](https://github.com/actions/cache/releases)
+- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)
+- [Commits](https://github.com/actions/cache/compare/v4.2.0...v4.2.1)
+
+---
+updated-dependencies:
+- dependency-name: actions/cache
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>",build(deps): bump actions/cache from 4.2.0 to 4.2.1 and update python-test.yml to add missing script tag
+3f742fb0053030cbb977df1d226c15f23d71f978,ci: Enhance Windows executable build workflow with debug logging,ci: add win_explorer_build script to python-publish.yml for enhanced Windows executable build workflow with debug logging
+cf5c4c945953ce413a4556e207c2c570207b940a,ci: Fix release upload workflow variable reference,ci: Fix release upload workflow variable reference and add example to python-publish.yml
+30a4c42b8243c50fa8c74c36e8c896717a851c6c,ci: fix docker tag,ci: fix docker tag and add missing comment to python-publish.yml
+f56a7d12accaeb59ae578fe00d1d2277bf0553ff,fix: improve regex for content extraction in translator response,fix: enhance translator response content extraction and add info to translator
+a0e6c288f27c214a5c6063c2655c64c3532c8d83,fix: update regex for think filter to handle edge cases,"fix: update regex for think filter, correct typo in translator.py and rename openai_translator reference"
+171192bd5a61edfba33f3a120af89fc65d1261b4,ci: Improve site-packages symlink creation with robust error handling in Windows workflow,ci: Enhance Windows workflow with robust error handling for site-packages symlink creation and add mklink test in fork-build.yml
+4b024fe100603dde684dbda0acf46d87773414e4,ci: Fix repository condition in GitHub Actions workflows,ci: Add tests for repository condition checks in GitHub Actions workflows
+9823cbd73305c93b98dc506e88ecf8e25f74891b,"fix(pdf2zh): 增加 OpenAI 接口速率限制错误处理
+
+- 在 OpenAITranslator 类的 do_translate 方法中添加了对 RateLimitError 的捕获
+- 当遇到速率限制错误时，程序将暂停 6 秒后重试一次
+- 这种处理方式可以避免因频繁请求导致的接口限制问题，提高程序的稳定性",fix(pdf2zh): add retry mechanism to OpenAI translator to handle rate limit errors
+ad48d86460615c6c2b07f7bee431d567e2e26fe5,"chore(deps): bump actions/cache from 4.2.0 to 4.2.2
+
+Bumps [actions/cache](https://github.com/actions/cache) from 4.2.0 to 4.2.2.
+- [Release notes](https://github.com/actions/cache/releases)
+- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)
+- [Commits](https://github.com/actions/cache/compare/v4.2.0...v4.2.2)
+
+---
+updated-dependencies:
+- dependency-name: actions/cache
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>","chore(deps): bump actions/cache from 4.2.0 to 4.2.2 and add missing tests to exe-build, python-publish, and python-test.yml files"
+038c0bd0e241f2b8191bcb5655c4b297c58f63b1,fix(pdf2zh/high_level): Enhance the reliability of temporary file cleanup,fix(pdf2zh/high_level): Enhance temporary file cleanup and fix translate function in high_level.py
+1da044a29ac64ac86521c3ad55be57549098c00b,fix: Ensure correct PDF filename extraction when downloading,fix: enhance PDF download functionality with correct filename extraction and support for large downloads
+cf7428466c3d945279fade4eff03289462fa368e,"Merge pull request #721 from lintian233/tmpfix
+
+fix(high_level): Enhance the reliability of temporary file cleanup",Enhance temporary file cleanup reliability in high-level functionality
+29988ceb72f755d9ffc1c25f46f2f3fb2c943c78,"feat(OpenAITranslator): 添加对 OpenAI 速率限制的重试逻辑
+
+- 引入 tenacity 库以实现重试机制
+- 在 do_translate 方法中添加重试装饰器，处理 RateLimitError
+- 配置重试参数：最多重试 100 次，指数退避等待时间
+- 在每次重试前记录警告日志
+- 移除原有的 sleep 和 递归重试逻辑",feat(OpenAITranslator): add retry logic with exponential backoff for OpenAI rate limits using tenacity library
+5b658dcf554de82e62a1fcfbbcb4bad1360a82b1,"refactor(pdf2zh): 优化 OpenAI 翻译器的错误处理
+
+- 移除了 OpenAITranslator 类中的 try-except 块
+- 删除了速率限制错误的重试逻辑
+- 简化了错误响应的处理流程",refactor(pdf2zh): 优化 OpenAI 翻译器的错误处理，移除不必要的 try-except 和重试逻辑，同时在 translator.py 中添加重试机制
+5663206e01bbb9e43a7edb168a6db6e0b53410b9,"typo(openai translator): fix log typo
+
+Co-authored-by: Copilot <175728472+Copilot@users.noreply.github.com>",fix(openai translator): add retry logic and correct log typo
+0894af476a76f37626f9363785e871e1f664f990,"Merge pull request #716 from highkay/main
+
+fix(pdf2zh): Add error handling for OpenAI API rate limit",Add error handling for OpenAI API rate limit in pdf2zh converter
+79eeb76a6786a3bd39ae5c84ca853254cc56b15e,fix tests and format codes,"Refactor code and tests: fix yadt command, add docstrings and translation tests"
+a109c3abdcd9e020f68ac4299b9bdf43f4664a99,fix,Add examples to README_zh-CN.md
+df286b5ab84cb5319a20f61fc6434db40b5d799c,"fix: :bug: fix TKE_REGION not exist
+
+fix TKE_REGION missing
+
+https://github.com/Byaidu/PDFMathTranslate/issues/596
+https://github.com/Byaidu/PDFMathTranslate/issues/693","fix: add TKE_REGION fallback and translations for unresolved regions, resolving issues #596 and #693"
+81261e6471a596d8f1fb75b136eb6596b35d0eb0,fix(translator): :bug: cache option,fix(translator): add cache option and include missing comments for clarity
+b92037ae8281b4b9c2365630a2cedcbc3d67fefd,"Merge pull request #734 from czz404/main
+
+docs(README_zh-CN): fix some links",docs: fix links in README_zh-CN
+f961f296e092ced3714c9d81af9ca6301afd5af4,"Merge pull request #745 from hellofinch/tmt
+
+fix(TMT): :bug: fix TKE_REGION not exist",fix(TMT): resolve TKE_REGION non-existence issue (#745)
+53d21825e88777433df487cdf9b48e1b86237590,"1. Fix Typo from ""GorkTranslator"" to ""GrokTranslator""
+2. A dumb way to fix #744, which keys still in Gradio,
+   there is also have risk of key leakage, but the
+   GUI view is more clean.","Fix typo in translator name, improve GUI view, and add support for custom language files and missing comments and documentation."
+18431981f346e0de82268dce21c86ae563e4d3d4,"typo(gui): update error message
+
+Co-authored-by: Copilot <175728472+Copilot@users.noreply.github.com>",fix(gui): update error message and handle no services available case
+dc42ded935c95cea466adc4f2de76b39e4e6d893,"Merge pull request #746 from tylzh97/fix-gradio-ui
+
+feat(gui): Support hiding services and their details",feat(gui): Add support for hiding services and their details in Gradio UI
+656918d32ff09ba975e4163cfefb9f3883d60eff,"Merge pull request #759 from hellofinch/templete
+
+update issue templete","Update issue template in pull request #759 from hellofinch/templete, modifying related files to reflect new template changes."
+ae5b7e4aaa8bbf71d723c3c6ac068faadd7833c5,"Merge pull request #774 from hellofinch/templete
+
+update issue template",Update issue template by modifying template files to improve user experience
+3ea6237cba130718e7d66c4f773f01b407b9cf4c,fix: fix on_vfont_change,fix: add missing vfont/filetype handling in gui.py to fix on_vfont_change issue
+9254718f4746b131b2a4135f01f2aaf758849419,fix: error response format for dify,fix: enhance error response format for dify and add missing doc block in translator
+0907d630598cf64fb7bfbabcce1d41f0eaa540a1,fix: openai ver,fix: add missing dependencies to pyproject.toml for OpenAI version compatibility
+f7992192b553da1bff50f8145e52855c5785def5,"Merge pull request #820 from prompt-bot/patch-1
+
+fix: error response format for dify",fix: update error response format for dify in multiple files
+70c4a3dbcc2cc8f04f7f60b5b0b6669c181e7b22,fix api version and api key variable in azure openai translator,"Update Azure OpenAI translator to fix API version and key variable, and add custom prompt support"
+31d341bc057fe55065d18a8bef2a655834f10851,Merge pull request #874 from Mor-Li/fix_azure_openai_api,Fix Azure OpenAI API integration by updating API endpoint and handling authentication errors in affected modules
+01f6ca0d9c3e601d7fcf39481fd7d6c2222189ed,"ci (docker): support config file on HF demo
+
+- Fixed file specification
+- Fixed file permissions","ci (docker): add support for config file and pdf2zh in HF demo, fixing file specification and permissions"
+b734e26ed0ae6449c10d4691c93a56392f107007,docs(template): :memo: update issue template.,docs(template): update issue templates with missing documentation for Chinese and English versions
+86a214a193bc975c137050f1e96bff5bbe67b028,docs(template): :memo: update issue template.,docs(template): update issue templates with missing docs for Chinese and English versions
+e5235aab1ef3063ab526bad5861a30441072ed03,"Merge pull request #897 from hellofinch/bug-fix
+
+update issue template",Update issue template and merge bug fix from hellofinch/bug-fix (#897)
+64b4fe2220b78ae340e0da85ed3db6afaa622b60,fix(Dockerfile): update babeldoc dependency to version <0.3.0,fix(Dockerfile): update babeldoc dependency and add pdf2zh to babeldoc-cli
+6faf9b42eae708ca644947979273426ead5fce73,fix(Dockerfile): add pdfminer-six dependency to installation,fix(Dockerfile): add pdfminer-six dependency to Dockerfile for babeldoc installation
+9ab2db25b54a9a2a8f5fcd7025e4b23448d31a83,fix(readme): Correct typos in README.md,fix(readme): correct typos and add documentation for missing API section in README.md
+886e33ddf83c4807e4dc09b623cfd2f959eb14c7,Merge pull request #952 from snowykr/fix/readme-typos,Fix README typos from pull request #952
+d11ff90ad0fb2d8d7a20d60238e816f2aa5f5ccf,fix: numpy compatibility error,fix: update high_level.py to resolve numpy compatibility error
+f8d0a680ef8a01c68ebb4eee9eaaf8430203dc56,fix: workaround for deeplx ssl issue,fix: add missing return in translator.py and workaround for Deeplx SSL issue
+b9fa581900e6f231c51b5040b96678b777bb0e44,doc (issues) : update issue template,Update issue templates to add missing links for next steps and bug reports in Chinese and English versions
+f6870239fb87aa6faf75d0a705ca788081fdd46b,doc (issue) : fix typo.,doc: update release links in functionality request and issue feedback documents (CN/EN)
+a309efc35fe3286fe451f1dabc6df874c8857ab2,"Merge pull request #983 from hellofinch/template
+
+doc (issue): redirect to new repo.","Redirect documentation to new repository, closing issue, as per pull request #983"
+8b0a83895f4740dc1819153030d9fbc3540c3903,doc (issues): update template.,"Update documentation templates: add missing links, tags, options, and doc blocks to various YAML files"
+808c80800c3cc7eef6057381dd1ec587dbb65047,"Merge pull request #992 from hellofinch/template
+
+doc (issues): update template.","Update documentation template to resolve issues, merging changes from pull request #992"
+f715a8705c5df1a03f477a236edc7f203e14edf4,Fix Docker Hub URL in README.md badge,Update README.md to fix Docker Hub URL and add support for `--show-recommend` flag
+0f0618d3303d064d97e7adb77557b21236c6cee0,"Update dependencies, restrict the gradio version to avoid the white screen issue.","Update dependencies and restrict gradio version, add missing versions to __init__.py and pyproject.toml to resolve white screen issue."
+b2601d29608a9f5be077f0f1867479e24fffdd11,"Merge pull request #1003 from PeterDaveHello/patch-1
+
+Fix Docker Hub URL in README.md badge",Update README.md to fix Docker Hub URL in badge
+4ff05587edac7ca551bfbe16ebccc61d5c4ef3ec,"Merge pull request #1019 from Elietio/main
+
+fix ADVANCED.md ModelScope provider name to lowercase for consistency",Fix ADVANCED.md to use lowercase ModelScope provider name for consistency
