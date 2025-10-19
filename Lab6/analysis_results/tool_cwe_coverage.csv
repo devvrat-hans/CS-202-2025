@@ -1,0 +1,4 @@
+Tool_name,Total_Unique_CWEs,Top25_CWEs_Detected,Top25_Coverage_Percent,Total_Findings,Top25_Findings,Top25_Findings_Percent
+flawfinder,14,3,12.0,1806.0,373.0,20.653377630121817
+cppcheck,17,1,4.0,4021.0,51.0,1.2683412086545636
+codeql,20,1,4.0,233.0,42.0,18.025751072961373

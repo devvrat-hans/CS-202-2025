@@ -1,0 +1,4 @@
+,flawfinder,cppcheck,codeql
+flawfinder,1.0,0.0,0.0625
+cppcheck,0.0,1.0,0.05714285714285714
+codeql,0.0625,0.05714285714285714,1.0

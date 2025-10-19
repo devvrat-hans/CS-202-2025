@@ -8,6 +8,8 @@ This repository contains lab assignments for the CS-202 course.
 - **Lab2**: Commit Message Rectification for Bug-Fixing Commits in the Wild
 - **Lab3**: Multi-Metric Bug Context Analysis and Agreement Detection in Bug-Fix Commits
 - **Lab4**: Exploration of different diff algorithms on Open-Source Repositories
+- **Lab6**: Static Analysis Tools and Vulnerability Detection in Open-Source C/C++ Projects
+- **Lab7**: Reaching Definitions Analyzer for C Programs with Control Flow Graph Construction
 
 ## Requirements
 

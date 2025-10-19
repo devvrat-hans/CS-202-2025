@@ -1,0 +1,7 @@
+venv/
+btop/
+ggml/
+OpenCC/
+.circleci/
+.github/
+__pycache__/
