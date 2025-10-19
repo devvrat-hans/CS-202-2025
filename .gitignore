@@ -5,3 +5,4 @@ OpenCC/
 .circleci/
 .github/
 __pycache__/
+.DS_Store
